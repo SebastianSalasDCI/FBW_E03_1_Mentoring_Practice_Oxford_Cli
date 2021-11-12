@@ -1,0 +1,23 @@
+{
+  "name": "oxford_cli",
+  "version": "1.0.0",
+  "description": "Oxford client",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianSalasDCI/FBW_E03_1_Mentoring_Practice_Oxford_Cli.git"
+  },
+  "author": "Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianSalasDCI/FBW_E03_1_Mentoring_Practice_Oxford_Cli/issues"
+  },
+  "homepage": "https://github.com/SebastianSalasDCI/FBW_E03_1_Mentoring_Practice_Oxford_Cli#readme"
+}
